@@ -1,11 +1,12 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import { Playlist } from './pages/Playlist';
+import Playlist from './pages/Playlist';
 import { Top100 } from './pages/Top100';
 import { MyPage } from './pages/MyPage';
 import { Login } from './pages/Login';
 import { NotFound } from './pages/NotFound';
 import { Layout } from './components/Layout';
 //import { Navbar } from './components/Navbar';
+
 function App() {
   return (
     <BrowserRouter>

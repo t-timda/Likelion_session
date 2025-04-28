@@ -1,8 +1,37 @@
-{
-  "albumImage": "/src/assets/rebel-heart.jpeg",
-  "releaseDate": "2025-01-13",
-  "artist": "IVE",
-  "title": "REBEL HEART",
-  "lyricist": "Nietzsche",
-  "composer": "Emily Harbakk"
-}
+[
+  {
+    "albumImage": "/assets/rebel-heart.jpeg",
+    "releaseDate": "2025-01-13",
+    "artist": "IVE",
+    "title": "REBEL HEART",
+    "lyricist": "Nietzsche",
+    "composer": "Emily Harbakk"
+  },
+
+  {
+    "albumImage": "/assets/SHE.jpeg",
+    "releaseDate": "2017-09-09",
+    "artist": "잔나비",
+    "title": "SHE",
+    "lyricist": "최정훈",
+    "composer": "잔나비"
+  },
+
+  {
+    "albumImage": "/assets/quiet.jpg",
+    "releaseDate": "2021-10-27",
+    "artist": "너드커넥션(Nerd Connection)",
+    "title": "조용히 완전히 영원히",
+    "lyricist": "너드커넥션(Nerd Connection)",
+    "composer": "너드커넥션(Nerd Connection)"
+  },
+
+  {
+    "albumImage": "/assets/homesweethome.jpg",
+    "releaseDate": "2017-12-12",
+    "artist": "카더가든 ",
+    "title": "Home Sweet Home",
+    "lyricist": "카더가든",
+    "composer": "카더가든"
+  }
+]
