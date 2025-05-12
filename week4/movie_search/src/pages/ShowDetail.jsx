@@ -31,7 +31,7 @@ const ShowDetailModal = ({ show, onClose }) => {
           <strong>상태:</strong> {show.status}<br />
           <strong>공식 사이트:</strong>{' '}
           {show.officialSite ? (
-            <a href={show.officialSite} target="_blank" className="text-blue-500 underline">
+            <a href={show.officialSite} target="_blank" rel="noopener noreferrer"className="text-blue-500 underline">
               링크
             </a>
           ) : (

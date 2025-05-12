@@ -3,7 +3,7 @@ import React from 'react';
 
 const ProgramCard = ({ programs, onCardClick }) => {
   return (
-    <div className="grid grid-cols-2 gap-4 p-4">
+    <div className="bg-slate-700 rounded-lg shadow-md p-4 text-white">
       {programs.map((item) => {
         const { show } = item; // 이 구조 분해 필수!
 
